@@ -32,7 +32,7 @@
             </ol>
         </p>
     <h1><font color="blue">Git</color></h1>
-        <p><figure><img src="img/Git.png" alt="Logo Git"></figure></p>
+        <p><figure><img src="img/Git.png" width=25% height=25% alt="Logo Git"></figure></p>
     <p><font size="3" color="black">Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo</font></p>
     <h1><font color="blue">Github</color></h1>
         <p><figure><img src="img/github.png" width=25% height=25% alt="Logo Github"></figure></p>
