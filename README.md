@@ -32,7 +32,7 @@
             </ol>
         </p>
     <h1><font color="blue">Git</color></h1>
-        <p><figure><img src="img/Git.svg" alt="Logo Git"></figure></p>
+        <p><figure><img src="img/Git.png" alt="Logo Git"></figure></p>
     <p><font size="3" color="black">Sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo</font></p>
     <h1><font color="blue">Github</color></h1>
         <p><figure><img src="img/github.png" width=25% height=25% alt="Logo Github"></figure></p>
@@ -44,6 +44,6 @@
         <p><figure><img src="img/vsc.png" width=25% height=25% alt="Logo VSC"></figure></p>
     <p><font size="3" color="black">Um editor de código de código aberto desenvolvido pela Microsoft.</font></p>
     <h1><font color="blue">Comandos GIT</color></h1>
-        <p><figure><img src="img/cgit.jpeg" width=50% height=50% alt="Tabela Comandos GTI"></figure></p>
+        <p><figure><img src="img/cgit.jpeg" alt="Tabela Comandos GTI"></figure></p>
 </body>
 </html>
